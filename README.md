@@ -58,7 +58,7 @@ The goal of the project is to reinforce Python fundamentals while implementing s
 # Project Structure
 
 ```
-loops_and_sequences/
+Loops_and_Sequences/
 │
 ├── Number_Pattern_Generator.py
 ├── Pin_Extractor.py
