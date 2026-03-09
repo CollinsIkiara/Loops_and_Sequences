@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Two Python projects demonstrating fundamental programming concepts including **lists, tuples, loops, enumerate, zip, list comprehensions, and lambda functions** through practical examples.
+Two Python projects demonstrating fundamental programming concepts including **lists, tuples, loops, and enumerate** through practical examples.
 
 This repository includes two scripts:
 
@@ -24,7 +24,6 @@ These examples illustrate how core Python constructs can be used to build simple
 - [Script 2: PIN Extractor](#script-2-pin-extractor)
 - [How to Run the Code](#how-to-run-the-code)
 - [Example Output](#example-output)
-- [Author](#author)
 
 ---
 
@@ -52,10 +51,7 @@ The goal of the project is to reinforce Python fundamentals while implementing s
 - Common Tuple Methods  
 - Loops  
 - Range in Loops  
-- Enumerate Function  
-- Zip Function  
-- List Comprehensions  
-- Lambda Functions  
+- Enumerate Function    
 
 ---
 
