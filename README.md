@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A small educational Python project demonstrating fundamental programming concepts including **lists, tuples, loops, enumerate, zip, list comprehensions, and lambda functions** through practical examples.
+Two Python projects demonstrating fundamental programming concepts including **lists, tuples, loops, enumerate, zip, list comprehensions, and lambda functions** through practical examples.
 
 This repository includes two scripts:
 
